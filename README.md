@@ -17,7 +17,6 @@ Termina l'installazione di MSYS2 con pacman -Syu e pacman -Su<br>
 Assicurati di riavviare il programma dopo il primo comando
 
 Installazione di MinGW<br>
-pacman -S mingw-w64-x86_64-gcc
 `pacman -S mingw-w64-x86_64-gcc`
 
 Installazione delle librerie SDL2
@@ -39,5 +38,5 @@ gcc main.c -o Scacchi -IC:\msys64\mingw64\include -LC:\msys64\mingw64\lib -lming
 
 Sostituisci C:\msys64\mingw64\include la cartella contenente i file.h<br>
 Sostituisci C:\msys64\mingw64\lib la cartella contenente i file.a o file.dll.a<br>
-flag -m64 per creare programmi a 64 bit<br>
+flag `-m64` per creare programmi a 64 bit<br>
 Aggiungi il flag -mwindows se vuoi nascondere la console<br>
