@@ -6,12 +6,7 @@ Il gioco è realizzato con interfaccia grafica tramite la libreria multimediale 
 ## Dipendenze del programma
 Per compilare il programma è necessario scaricare le seguenti librerie:<br>
 Development Libraries:
-```
-- SDL2 https://www.libsdl.org/download-2.0.php
-- SDL2_ttf https://www.libsdl.org/projects/SDL_ttf/
-- SDL2_image https://www.libsdl.org/projects/SDL_image/
-- Nano SVG https://github.com/memononen/nanosvg scarica i file della cartella src
-```
+
 - SDL2 https://www.libsdl.org/download-2.0.php
 - SDL2_ttf https://www.libsdl.org/projects/SDL_ttf/
 - SDL2_image https://www.libsdl.org/projects/SDL_image/
