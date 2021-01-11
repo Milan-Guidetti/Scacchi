@@ -4,7 +4,8 @@ Semplice gioco di scacchi!
 Il gioco è realizzato con interfaccia grafica tramite la libreria multimediale SDL2 scritto in linguaggio C.
 
 ## Dipendenze del programma
-Development Libraries
+Per compilare il programma è necessario scaricare le seguenti librerie:<br>
+Development Libraries:
 - SDL2 https://www.libsdl.org/download-2.0.php
 - SDL2_ttf https://www.libsdl.org/projects/SDL_ttf/
 - SDL2_image https://www.libsdl.org/projects/SDL_image/
@@ -12,7 +13,7 @@ Development Libraries
 
 ## MSYS2
 È possibile compilare il programma con MSYS2.<br>
-Termina l'installazione di MSYS2 con pacman -Syu e pacman -Su
+Termina l'installazione di MSYS2 con pacman -Syu e pacman -Su<br>
 Assicurati di riavviare il programma dopo il primo comando
 
 Installazione di MinGW
