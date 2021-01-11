@@ -16,7 +16,7 @@ Development Libraries:
 Termina l'installazione di MSYS2 con pacman -Syu e pacman -Su<br>
 Assicurati di riavviare il programma dopo il primo comando
 
-Installazione di MinGW
+Installazione di MinGW<br>
 pacman -S mingw-w64-x86_64-gcc
 
 Installazione delle librerie SDL2
