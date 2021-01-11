@@ -3,6 +3,8 @@ Semplice gioco di scacchi!
 
 Il gioco è realizzato con interfaccia grafica tramite la libreria multimediale SDL2 scritto in linguaggio C.
 
+![](./Screenshot.png =250x)
+
 ## Dipendenze del programma
 Per compilare il programma è necessario scaricare le seguenti librerie:<br>
 Development Libraries:
