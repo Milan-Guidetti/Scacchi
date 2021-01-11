@@ -5,10 +5,10 @@ Il gioco è realizzato con interfaccia grafica tramite la libreria multimediale 
 
 ## Dipendenze del programma
 Development Libraries
--SDL2 https://www.libsdl.org/download-2.0.php
--SDL2_ttf https://www.libsdl.org/projects/SDL_ttf/
--SDL2_image https://www.libsdl.org/projects/SDL_image/
--Nano SVG https://github.com/memononen/nanosvg
+- SDL2 https://www.libsdl.org/download-2.0.php
+- SDL2_ttf https://www.libsdl.org/projects/SDL_ttf/
+- SDL2_image https://www.libsdl.org/projects/SDL_image/
+- Nano SVG https://github.com/memononen/nanosvg
 
 È possibile compilare il programma con MSYS2
 Termina l'installazione di MSYS2 con pacman -Syu e pacman -Su
