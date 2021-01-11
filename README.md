@@ -18,12 +18,12 @@ Termina l'installazione di MSYS2 con pacman -Syu e pacman -Su<br>
 Assicurati di riavviare il programma dopo il primo comando
 
 Installazione di MinGW<br>
-`pacman -S mingw-w64-x86_64-gcc`
+pacman -S mingw-w64-x86_64-gcc
 
 Installazione delle librerie SDL2
-- `pacman -S mingw-w64-x86_64-SDL2`
-- `pacman -S mingw-w64-x86_64-SDL2_ttf`
-- `pacman -S mingw-w64-x86_64-SDL2_image`
+- pacman -S mingw-w64-x86_64-SDL2
+- pacman -S mingw-w64-x86_64-SDL2_ttf
+- pacman -S mingw-w64-x86_64-SDL2_image
 
 E infine scarica Nano SVG https://github.com/memononen/nanosvg<br>
 File necessari:<br>
