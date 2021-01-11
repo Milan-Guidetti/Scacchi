@@ -41,7 +41,7 @@ Sostituisci C:\msys64\mingw64\lib la cartella contenente i file.a o file.dll.a<b
 flag `-m64` per creare programmi a 64 bit<br>
 Aggiungi il flag -mwindows se vuoi nascondere la console<br>
 
-```javascript
+```
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
