@@ -40,3 +40,5 @@ Sostituisci C:\msys64\mingw64\include la cartella contenente i file.h<br>
 Sostituisci C:\msys64\mingw64\lib la cartella contenente i file.a o file.dll.a<br>
 flag -m64 per creare programmi a 64 bit<br>
 Aggiungi il flag -mwindows se vuoi nascondere la console<br>
+
+Inline `code` has `back-ticks around` it.
