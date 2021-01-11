@@ -18,6 +18,7 @@ Assicurati di riavviare il programma dopo il primo comando
 
 Installazione di MinGW<br>
 pacman -S mingw-w64-x86_64-gcc
+`pacman -S mingw-w64-x86_64-gcc`
 
 Installazione delle librerie SDL2
 - pacman -S mingw-w64-x86_64-SDL2
