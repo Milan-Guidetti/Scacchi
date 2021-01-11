@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1610277609 source:c:\users\milan\desktop\c\sdl2_chess6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<windows.h>
+	"Window.h"
+
+1610212428 c:\users\milan\desktop\c\sdl2_chess6\window.h
+	<stdbool.h>
+	<SDL2/SDL.h>
+	"Chessboard.h"
+
+1610298962 c:\users\milan\desktop\c\sdl2_chess6\chessboard.h
+	"nanosvg.h"
+	"nanosvgrast.h"
+	<math.h>
+	"Label.h"
+
+1605869591 c:\users\milan\desktop\c\sdl2_chess6\nanosvg.h
+	<string.h>
+	<stdlib.h>
+	<math.h>
+
+1605869591 c:\users\milan\desktop\c\sdl2_chess6\nanosvgrast.h
+	<math.h>
+
+1610278440 c:\users\milan\desktop\c\sdl2_chess6\label.h
+	<windows.h>
+
+1610277609 source:c:\users\milan\desktop\scacchi\sdl2_chess\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<windows.h>
+	"Window.h"
+
+1610212428 c:\users\milan\desktop\scacchi\sdl2_chess\window.h
+	<stdbool.h>
+	<SDL2/SDL.h>
+	"Chessboard.h"
+
+1610318828 c:\users\milan\desktop\scacchi\sdl2_chess\chessboard.h
+	"nanosvg.h"
+	"nanosvgrast.h"
+	<math.h>
+	"Label.h"
+
+1605869591 c:\users\milan\desktop\scacchi\sdl2_chess\nanosvg.h
+	<string.h>
+	<stdlib.h>
+	<math.h>
+
+1605869591 c:\users\milan\desktop\scacchi\sdl2_chess\nanosvgrast.h
+	<math.h>
+
+1610278440 c:\users\milan\desktop\scacchi\sdl2_chess\label.h
+	<windows.h>
+
+1610277609 source:c:\users\milan\desktop\c\sdl2_chess funzionante\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<windows.h>
+	"Window.h"
+
+1610212428 c:\users\milan\desktop\c\sdl2_chess funzionante\window.h
+	<stdbool.h>
+	<SDL2/SDL.h>
+	"Chessboard.h"
+
+1610391831 c:\users\milan\desktop\c\sdl2_chess funzionante\chessboard.h
+	"nanosvg.h"
+	"nanosvgrast.h"
+	<math.h>
+	"Label.h"
+
+1605869591 c:\users\milan\desktop\c\sdl2_chess funzionante\nanosvg.h
+	<string.h>
+	<stdlib.h>
+	<math.h>
+
+1605869591 c:\users\milan\desktop\c\sdl2_chess funzionante\nanosvgrast.h
+	<math.h>
+
+1610278440 c:\users\milan\desktop\c\sdl2_chess funzionante\label.h
+	<windows.h>
+
