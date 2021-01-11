@@ -11,7 +11,7 @@ Development Libraries
 - Nano SVG https://github.com/memononen/nanosvg
 
 ## MSYS2
-È possibile compilare il programma con MSYS2
+È possibile compilare il programma con MSYS2.
 Termina l'installazione di MSYS2 con pacman -Syu e pacman -Su
 Assicurati di riavviare il programma dopo il primo comando
 
