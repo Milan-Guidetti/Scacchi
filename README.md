@@ -35,9 +35,7 @@ Se non utilizzi MinGW offerto da MSYS2 ricordati di linkare le librerie di SDL2
 ## Command-line interface
 Se preferisci puoi compilare il programma da riga di comando:
 
-```
 gcc main.c -o Scacchi -IC:\msys64\mingw64\include -LC:\msys64\mingw64\lib -lmingw32 -lSDL2main -lSDL2.dll -lSDL2_ttf.dll -lSDL2_image.dll -Wl,--no-undefined -Wl,--dynamicbase -Wl,--nxcompat -Wl,--high-entropy-va -lm -ldinput8 -ldxguid -ldxerr8 -luser32 -lgdi32 -lwinmm -limm32 -lole32 -loleaut32 -lshell32 -lsetupapi -lversion -luuid -s -static-libstdc++ -static-libgcc -static -m64
-```
 
 Sostituisci C:\msys64\mingw64\include la cartella contenente i file.h<br>
 Sostituisci C:\msys64\mingw64\lib la cartella contenente i file.a o file.dll.a<br>
